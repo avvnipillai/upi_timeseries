@@ -1,0 +1,5 @@
+,MAPE_%
+ARIMA,8.74
+SARIMA,4.65
+HoltWinters,1.33
+Prophet,2.56
